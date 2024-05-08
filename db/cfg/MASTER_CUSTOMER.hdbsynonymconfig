@@ -1,0 +1,8 @@
+{
+    "SALES_DB_CUSTOMERS": {
+        "target": {
+            "object": "CUSTOMERMASTER_DB_CUSTOMERS",
+            "schema.configure": "CustomerMaster-db-hdi/schema"
+        }
+    }
+}
